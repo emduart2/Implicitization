@@ -1,0 +1,9 @@
+10/08/2015
+I'm working on including the examples functions into the implicitization package.
+I have included and modified the names so that the names in the Package make more sense
+ Included functions with new names:
+ restest->genericMap
+ kbpts -> kpoints Note: Still need to figure out how to input the polynomial ring in this case.
+10/09/2015
+Made some changes to the kpoints code to run it with the ring, it still has some bugs inside
+the function. For some reason M2 doesn't like it.
